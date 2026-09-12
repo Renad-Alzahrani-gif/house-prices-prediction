@@ -58,7 +58,6 @@ The project also analyzes the largest prediction errors and the percentage of ca
 * GitHub
 
 ## Project File
-House_Prices_Prediction.ipynb contains the complete analysis, preprocessing, model training, evaluation, and results.
 
 `House_Prices_Prediction.ipynb` contains the complete analysis, preprocessing, model training, evaluation, and results.
 
